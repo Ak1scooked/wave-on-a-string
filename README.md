@@ -9,6 +9,6 @@ A user-interactive simulation of a wave on a string, built with Python and Matpl
 
 ## How to Run
 1. Make sure Python is installed.
-2. Install required modules:
+2. Install required modules in cmd:
    ```bash
    pip install matplotlib numpy
